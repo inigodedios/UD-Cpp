@@ -1,0 +1,3 @@
+/Users/mentxaka/Documents/F - C & C++ Files/UD-ProyectoProgIV/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/mentxaka/Documents/F - C & C++ Files/UD-ProyectoProgIV/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mentxaka/Documents/F - C & C++ Files/UD-ProyectoProgIV/cmake-build-debug/CMakeFiles/UD_ProyectoProgIV.dir
